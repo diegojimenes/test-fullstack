@@ -1,4 +1,4 @@
-# teste-fullstack-Fabricio
+# teste-fullstack
 
 Estamos procurando uma pessoa desenvolvedora que possa agregar em nosso time, principalmente quem gosta de propor soluções e inovações. Estamos montando nosso novo time de Produtos e pra isso precisamos de pessoas que conheçam:
 
